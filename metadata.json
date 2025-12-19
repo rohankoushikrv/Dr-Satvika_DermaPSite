@@ -1,0 +1,8 @@
+
+{
+  "name": "Dr. Elena Vance - Professional Portfolio",
+  "description": "A sophisticated, high-end professional website for a medical specialist using HTML, CSS, and Vanilla JS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
